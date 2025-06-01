@@ -72,22 +72,22 @@ VitaCam-Application-main/
 
 ## Screenshots
 ### Home Page
-![Home](HOMESS.jpeg)
+![Home](HOMESS.jpg)
 
 ### Prediction Page
-![Prediction](CHECKSS.jpeg)
+![Prediction](CHECKSS.jpg)
 
 ### About Page
-![About](ABOUTSS.jpeg)
+![About](ABOUTSS.jpg)
 
 ### Diseases Page
-![Diseases](DISEASESSS.jpeg)
+![Diseases](DISEASESSS.jpg)
 
 ### Vitamin Page
-![Vitamin](VITAMINSS.jpeg)
+![Vitamin](VITAMINSS.jpg)
 
 ## Contact
-![Contact](CONTECTSS.jpeg)
+![Contact](CONTECTSS.jpg)
 ---
 
 **Note:**
